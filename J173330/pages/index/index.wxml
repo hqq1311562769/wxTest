@@ -1,4 +1,6 @@
 <!--index.wxml-->
+<Lbt />
+<LinkList/>
 <view class="tr">
 <navigator  url='../lyb/lyb'>
 <image src="../../images/1.jpg"
@@ -9,4 +11,3 @@ style="width: 358px;" mode ="widthFix"></image></navigator>
 <image src="../../images/2.jpg"
 style="width: 358px;" mode ="widthFix"></image></navigator>
 </view>
-<LinkList/>
