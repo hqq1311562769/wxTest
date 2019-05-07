@@ -12,7 +12,8 @@
     "pages/lx/lx",
     "pages/lxjsq/lxjsq",
     "pages/csz/csz",
-    "components/Lbt/Lbt"
+    "components/Lbt/Lbt",
+    "components/Topmenu/Topmenu"
   ],
   "tabBar": {
     "color": "#7A7E83",
